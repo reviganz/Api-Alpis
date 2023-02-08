@@ -34,7 +34,7 @@ servicesmtp = 'developeridrev@gmail.com'//Ada gmail ada sendinblue ikut masing2 
 sendemail = process.env.sendemail //Email SMTP
 fromsendemail = process.env.fromsendemail // From Email SMTP *kalau takde custom email kena sama email dengan Email SMTP
 sendpwmail = process.env.sendpwmail // Password Email SMTP
-domain = 'reviapibot.onrender.com
+domain = 'apitutorrevi.onrender.com
 '// domain website tanpa http or https
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
